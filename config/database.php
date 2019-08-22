@@ -1,7 +1,6 @@
 <?php
 
-class Database
-{
+class Database {
 
   //database creds
     private static $db_host = "localhost";
